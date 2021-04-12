@@ -23,12 +23,13 @@
     "src/XmlHttpRequestUpload.re"
   ],
   "dependencies": {
-    "bs-webapi": "^0.15.6"
+    
   },
   "peerDependencies": {
-    "bs-platform": "^7.0.0"
+    "bs-platform": "^9.0.2",
+    "bs-webapi": "^0.19.1"
   },
   "devDependencies": {
-    "bs-platform": "^7.0.0"
+    "bs-platform": "^9.0.2"
   }
 }
